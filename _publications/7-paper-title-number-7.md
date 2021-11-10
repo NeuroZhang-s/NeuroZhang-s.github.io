@@ -1,15 +1,11 @@
 ---
 title: "Medical Histories of Control Subjects Influence the Biomarker Potential of Plasma Aβ in Alzheimer’s Disease: a Meta-analysis."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'IF=3.444, Q3, First Author.'
 date: 2020-10-01
 venue: 'Journal of Molecular Neuroscience'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'http://NeuroZhang-s.github.io/files/paper4.pdf'
 ---
-IF=3.444, Q3, First Author.
+Shuai Zhang, Si-Yu Huang, Xiao-Bin An, Lu Zeng, Jing Ai*. IF=3.444, Q3,
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](http://NeuroZhang-s.github.io/files/paper4.pdf)
