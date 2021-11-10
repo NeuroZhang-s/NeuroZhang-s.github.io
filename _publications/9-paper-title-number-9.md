@@ -1,8 +1,7 @@
 ---
 title: "AhR/miR-23a-3p/PKCa axis contributes to memory deficits in ovariectomized and normal aging female mice."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'IF=8.886, Q1, First author.'
 date: 2021-10-01
 venue: 'Molecular Therapy-Nucleic Acids'
 paperurl: 'http://neurozhang-s.github.io/files/paper1.pdf'
