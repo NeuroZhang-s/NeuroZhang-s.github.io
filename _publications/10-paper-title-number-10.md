@@ -1,5 +1,5 @@
 ---
-title: "Epigallocatechin-3-Gallate Allosterically Activates Protein Kinase C‑α and Improves the Cognition of Estrogen Deficiency Mice."
+title: "AhR/miR-23a-3p/PKCα axis contributes to memory deficits in ovariectomized and normal aging female mice."
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
