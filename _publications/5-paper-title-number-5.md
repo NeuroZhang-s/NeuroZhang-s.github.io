@@ -1,15 +1,11 @@
 ---
 title: "MicroRNA-153 impairs presynaptic plasticity by blocking vesicle release following chronic brain hypoperfusion."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'IF=5.782, Q2, Co-first Author.'
 date: 2020-10-01
 venue: 'Cell Communication and Signaling'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'http://NeuroZhang-s.github.io/files/paper6.pdf'
 ---
-IF=5.782, Q2, Co-first Author.
+Mei-Ling Yan#, Shuai Zhang#, Hong-Mei Zhao, Sheng-Nan Xia, Zhuo Jin, Yi Xu, Lin Yang, Yang Qu, Si-Yu Huang, Ming-Jing Duan, Meng Mao, Xiao-Bin An, Chandan Mishra, Xin-Yu Zhang, Li-Hua Sun and Jing Ai*. IF=5.782, Q2.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](http://NeuroZhang-s.github.io/files/paper6.pdf)
