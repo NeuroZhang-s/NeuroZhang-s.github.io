@@ -4,8 +4,8 @@ collection: publications
 excerpt: 'IF=4.418, Q2, First Author.'
 date: 2021-10-01
 venue: 'Molecular Therapy-Nucleic Acids'
-paperurl: 'http://neurozhang-s.github.io.github.io/files/paper1.pdf'
+paperurl: 'http://neurozhang-s.github.io/files/paper1.pdf'
 ---
 Shuai Zhang#, Xiaobin An#, Siyu Huang, Lu Zeng, Yi Xu, Dan Su, Yang Qu, Xin Tang, Jing Ma, Junkai Yang, Jing Ai*. IF=8.886, Q1.
 
-[Download paper here](http://neurozhang-s.github.io.github.io/files/paper1.pdf)
+[Download paper here](http://neurozhang-s.github.io/files/paper1.pdf)
