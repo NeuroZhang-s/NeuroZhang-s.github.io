@@ -8,4 +8,4 @@ paperurl: 'http://neurozhang-s.github.io.github.io/files/paper2.pdf'
 ---
 Shuai Zhang#, Yi Xu#, Lu Zeng, Xiaobin An, Dan Su, Yang Qu, Jing Ma, Xin Tang, Xuqiao Wang, Junkai Yang, Chandan Mishra, Shah Ram Chandra, and Jing Ai*. IF=4.418, Q2.
 
-[Download paper here](http://NeuroZhang-s.github.io.github.io/files/paper2.pdf)
+[Download paper here](http://neurozhang-s.github.io.github.io/files/paper2.pdf)
