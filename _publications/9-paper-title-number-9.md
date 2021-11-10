@@ -4,7 +4,7 @@ collection: publications
 excerpt: 'IF=8.886, Q1, First author.'
 date: 2021-10-01
 venue: 'Molecular Therapy-Nucleic Acids'
-paperurl: 'http://neurozhang-s.github.io/files/paper1.pdf'
+paperurl: Download paper here 'http://neurozhang-s.github.io/files/paper1.pdf'
 ---
 IF=8.886, Q1, First author.
 
