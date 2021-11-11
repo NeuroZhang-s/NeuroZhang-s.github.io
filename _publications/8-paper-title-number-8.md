@@ -4,8 +4,8 @@ collection: publications
 excerpt: 'IF=5.33, Q2, First Author.'
 date: 2020-10-01
 venue: 'Experimental Neurology'
-paperurl: 'http://NeuroZhang-s.github.io/files/paper4.pdf'
+paperurl: 'http://NeuroZhang-s.github.io/files/paper3.pdf'
 ---
 Shuai Zhang#, Mei-Ling Yan#, Lin Yang, Xiao-Bin An, Hong-Mei Zhao, Sheng-Nan Xia, Zhuo Jin, Si-Yu Huang, Yang Qu, Jing Ai*. IF=5.33, Q2.
 
-[Download paper here](http://NeuroZhang-s.github.io/files/paper4.pdf)
+[Download paper here](http://NeuroZhang-s.github.io/files/paper3.pdf)
