@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download](http://NeuroZhang-s.github.io/files/paper12.pdf)
-======
-
 Education
 ======
 * B.S. and M.S. 7-year Program of Basic Medical Sciences, Harbin Medical University, 2012-2019
