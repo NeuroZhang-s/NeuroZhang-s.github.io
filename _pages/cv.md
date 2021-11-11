@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. and M.S. 7-year program of basic medical sciences, Harbin Medical University, 2012-2019
+* B.S. and M.S. 7-year Program of Basic Medical Sciences, Harbin Medical University, 2012-2019
 * Ph.D. Pharmaology, Harbin Medical University, 2019-2022 (expected)
 
 Awords and Honors
