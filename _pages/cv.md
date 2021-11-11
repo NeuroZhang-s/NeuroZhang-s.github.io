@@ -5,6 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+paperurl: 'http://NeuroZhang-s.github.io/files/paper5.pdf'
 ---
 
 {% include base_path %}
