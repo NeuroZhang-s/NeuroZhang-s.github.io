@@ -2,6 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+[Downloader the CV](http://NeuroZhang-s.github.io/files/paper11.pdf)
 author_profile: true
 redirect_from:
   - /resume
