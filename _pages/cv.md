@@ -25,6 +25,26 @@ Awords and Honors
 * 2021 The Medical Scholarship by Daiichi-Sankyo Corporation (International Health Exchange and Cooperation Centre, Ministry of Health)
 * 2021 Harbin Medical University Innovation Fund to Graduate Student
 
+Publications
+======
+* Epigallocatechin-3-Gallate Allosterically Activates Protein Kinase C‑α and Improves the Cognition of Estrogen Deficiency Mice. ACS Chemical Neuroscience. 2021, IF=4.418, Q2, First Author.
+* AhR/miR-23a-3p/PKCa axis contributes to memory deficits in ovariectomized and normal aging female mice. Molecular Therapy-Nucleic Acids. 2021, IF=8.886, Q1, First author.
+* MicroRNA-153 impairs hippocampal synaptic vesicle trafficking via downregulation of synapsin I in rats following chronic cerebral hypoperfusion. Experimental Neurology. 2020, IF=5.33, Q2, First Author.
+* Medical Histories of Control Subjects Influence the Biomarker Potential of Plasma Aβ in Alzheimer’s Disease: a Meta-analysis. Journal of Molecular Neuroscience. 2020, IF=3.444, Q3, First Author.
+* Cholinergic Dysfunction Involves in the Impairment of MS-dCA1 Neurocircuit in Rats with Chronic Cerebral Hypoperfusion. Frontiers in Cellular Neuroscience. 2020, IF=5.505, Q1, Co-first Author.
+* MicroRNA-153 impairs presynaptic plasticity by blocking vesicle release following chronic brain hypoperfusion. Cell Communication and Signaling. 2020, IF=5.782, Q2, Co-first Author.
+* Metoprolol prevents neuronal dendrite remodeling in a canine model of chronic obstructive sleep apnea. Acta Pharmacologica Sinica, 2019, Eleventh Author.
+* Glutamate Dysfunction and Alzheimer’s Disease, Acta Neuropharmacologica, 2018, First Author.
+* The Action and Molecular Mechanisms of MicroRNA-195 on Cognitive Decline Induced by Chronic Brain Hypoperfusion, Acta Neuropharmacologica, 2016, First Author.
+* Myocardial infarction-induced hippocampal microtubule damage by cardiac originating microRNA-1 in mice. Journal of Molecular and Cellular Cardiology. 2018, IF=5.0, Q2, Eighth Author.
+* MicroRNA-195 prevents dendritic degeneration and neuron death in rats following chronic brain hypoperfusion. Cell Death and Disease. 2017, IF= 8.469, Q1, Seventh Author.
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
 Skills
 ======
 * Patch Clamp
@@ -41,19 +61,6 @@ Skills
   *  Isolation of DNA, RNA and Proteins from blood, Cell lines and animal tissues, Reverse Transcriptase-PCR, Quantitative Real Time-PCR, ELISA, SDS-PAGE.
 * Computer and other skills
   *  Windows, Microsoft Office, Various bioinformatics tool like Pubmed tools, Endnote, Origin, GraphPad Prism software, JASPAR, TargetScan, Autodock. Image processing tools, like ImageJ, Adobe Photoshop, Adobe Illustrator.
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
   
 Contact
 ======
