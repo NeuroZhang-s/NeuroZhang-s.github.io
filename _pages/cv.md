@@ -5,11 +5,11 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+[Downloader the CV](http://NeuroZhang-s.github.io/files/paper11.pdf)
 ---
 
 {% include base_path %}
 
-[Downloader the CV](http://NeuroZhang-s.github.io/files/paper11.pdf)
 Education
 ======
 * B.S. and M.S. 7-year Program of Basic Medical Sciences, Harbin Medical University, 2012-2019
