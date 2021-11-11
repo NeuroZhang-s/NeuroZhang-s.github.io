@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 Education
-paperurl: 'http://NeuroZhang-s.github.io/files/paper5.pdf'
 ======
 * B.S. and M.S. 7-year Program of Basic Medical Sciences, Harbin Medical University, 2012-2019
 * Ph.D. Pharmaology, Harbin Medical University, 2019-2022 (expected)
@@ -72,4 +71,3 @@ Skills
 Contact
 ======
 * neurozhang_s@163.com
-paperurl: 'http://NeuroZhang-s.github.io/files/paper5.pdf'
