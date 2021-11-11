@@ -51,6 +51,21 @@ Talks
 * MicroRNA-153 Impairs Presynaptic Plasticity by Blocking Synaptic Vesicle Trafficking and Release following Chronic Cerebral Hypoperfusion. International Cross Forum on Cardiovascular Drug Research and Development. 2020-China. (Oral presentations)
 * AhR/miR-23a-3p/PKCα Axis Contributes to Memory Deficits in Ovariectomized and Normal Aging Female Mice. The XXI Pacific Scientific Conference of Students and Young Scholars with International Participation "Actual Problems of Experimental, Preventive and Clinical Medicine", 2021-Russia (Online). (Oral presentations)
 
+Research Experience
+======
+* September 2019-May 2022, Ph.D.
+* Department of Pharmacology, Harbin Medical University, China
+* Mentor: Dr. Jing Ai
+  * Professor, Department of Pharmacology, Harbin Medical University, China
+* Thesis title: “Gut Prevotellaceae-GABAergic Septohippocampal Pathway Mediates the Spatial Memory Impairment in High-fat diet Fed Ovariectomized Mice.”
+* Summary of Doctoral work:
+  *Clarifying the risk factors and mechanisms which promote the onset of cognitive impairment after estrogen depletion is essential for improving the life quality of aging females. Therefore, in my Ph.D thesis, using behavioral tests, 16s rDNA sequencing, in vivo or in vitro electrophysiology, combined with optogenetics and chemogenetics, i revealed that high-fat diet accelerated the impairment of spatial memory through a multi-order gut Prevotellaceae-septo(PV+)-hippocampal pathway in ovariectomized mice. Resistant starch supplementation rectified the gut Prevotellaceae and rescued the above impairment. These findings provide a better understanding of the precise gut-brain neural control of cognition and a putative way for preventing the cognitive impairment in obese menopausal females.
+
+Overall Research Interest
+======
+* Discovery of neural mechanisms underlying specific behaviors.
+* Studying novel targets for the prevention and therapy of neurological diseases.
+
 Skills
 ======
 * Patch Clamp
