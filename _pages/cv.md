@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "CV [Downloader the CV](http://NeuroZhang-s.github.io/files/paper11.pdf)"
+title: "CV"
+* [Downloader the CV](http://NeuroZhang-s.github.io/files/paper12.pdf)
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -71,3 +72,4 @@ Skills
 Contact
 ======
 * neurozhang_s@163.com
+* [Downloader the CV](http://NeuroZhang-s.github.io/files/paper12.pdf)
