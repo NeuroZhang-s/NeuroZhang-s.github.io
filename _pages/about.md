@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io).
+I am a learning and practical person. I have good professional knowledge, strong hands-on ability and adaptability, quick thinking and strong self-learning ability. In terms of work, I am proactive, responsible, innovative, daring to meet challenges and to take responsibility. I am full of work passion, dedication, good organization and teamwork spirit.
