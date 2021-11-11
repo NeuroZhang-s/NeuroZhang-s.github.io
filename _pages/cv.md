@@ -39,12 +39,18 @@ Publications
 * Myocardial infarction-induced hippocampal microtubule damage by cardiac originating microRNA-1 in mice. Journal of Molecular and Cellular Cardiology. 2018, IF=5.0, Q2, Eighth Author.
 * MicroRNA-195 prevents dendritic degeneration and neuron death in rats following chronic brain hypoperfusion. Cell Death and Disease. 2017, IF= 8.469, Q1, Seventh Author.
 
+Manuscript under preparation
+======
+* Gut Prevotellaceae-GABAergic Septohippocampal Pathway Mediates the Spatial Memory Impairment in High-fat diet Fed Ovariectomized Mice. First Author.
+* The different sensitivity of hippocampus and cortical neurons dendrite degeneration to estrogen decline in female aging mice. Second Author.
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* MicroRNA-195 Alleviates Cognitive Impairment in rat following Chronic Brain Hypoperfusion. Experimental biology, 2019-United States of America. (Poster presentations)
+* MicroRNA-153 Impairs Presynaptic Plasticity by Blocking Synaptic Vesicle Trafficking and Release following Chronic Cerebral Hypoperfusion. Cardiovascular and cerebrovascular pharmacology conference. 2020-China. (Oral presentations)
+* MicroRNA-153 Impairs Presynaptic Plasticity by Blocking Synaptic Vesicle Trafficking and Release following Chronic Cerebral Hypoperfusion. International Cross Forum on Cardiovascular Drug Research and Development. 2020-China. (Oral presentations)
+* AhR/miR-23a-3p/PKCα Axis Contributes to Memory Deficits in Ovariectomized and Normal Aging Female Mice. The XXI Pacific Scientific Conference of Students and Young Scholars with International Participation "Actual Problems of Experimental, Preventive and Clinical Medicine", 2021-Russia (Online). (Oral presentations)
+
 Skills
 ======
 * Patch Clamp
