@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. and M.S. 7-year program of basic medical sciences, Harbin Medical University, 2012-2019
+* Ph.D. Pharmaology, Harbin Medical University, 2019-2022 (expected)
 
-Work experience
+Awords and Honors
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014 National Scholarships
+* 2013 and 2015 National Encouragement Scholarship
+* 2015 the 14th “Challenge Cup” College Students’ Extracurricular Academic and Technological Works Competition in Hei Longjiang Province, Third Award
+* 2015 “Merit Student” of Hei Longjiang Province
+* 2020 Youth Research Paper Award in Cardiovascular and Cerebrovascular Pharmacology Conference, First Prize
+* 2021 The 7th ”Internet+” Innovation and Entrepreneurship Competition in Hei Longjiang Province, Silver Award
+* 2021 The Medical Scholarship by Daiichi-Sankyo Corporation (International Health Exchange and Cooperation Centre, Ministry of Health)
+* 2021 Harbin Medical University Innovation Fund to Graduate Student
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Patch Clamp
+  * Extracellular recording of field potential, Whole cell recording in brain slices and cultured neuron.
+* In vivo techniques
+  * Opto/chemo-genetic manipulation of neural circuits.
+  * Recording of local field potential.
+  * Behavioral Test (Morris Water maze, Barnes Maze, Novel object recognition task, Passive/Active avoidance task).
+* Microscopy
+  *  Immunohistochemistry, microscopy, confocal microscopy.
+* Animal handling
+  *  Expertise in handling of Rat and Mice. Brain stereotactic injection, Ovariectomized mice model, Bilateral common carotid artery occlusion, Subdiaphragmatic vagotomy, Administration of agents via different routes (Oral route, intra-peritoneal, and subcutaneous) in in vivo, Autopsy, Isolation of tissue and organs.
+* Molecular Biology
+  *  Isolation of DNA, RNA and Proteins from blood, Cell lines and animal tissues, Reverse Transcriptase-PCR, Quantitative Real Time-PCR, ELISA, SDS-PAGE.
+* Computer and other skills
+  *  Windows, Microsoft Office, Various bioinformatics tool like Pubmed tools, Endnote, Origin, GraphPad Prism software, JASPAR, TargetScan, Autodock. Image processing tools, like ImageJ, Adobe Photoshop, Adobe Illustrator.
 
 Publications
 ======
@@ -48,12 +54,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Contact
 ======
-* Currently signed in to 43 different slack teams
+* neurozhang_s@163.com
