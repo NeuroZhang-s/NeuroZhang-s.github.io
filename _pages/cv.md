@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "CV"
+title: "CV [Downloader the CV](http://NeuroZhang-s.github.io/files/paper11.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-[Downloader the CV](http://NeuroZhang-s.github.io/files/paper11.pdf)
 ---
 
 {% include base_path %}
