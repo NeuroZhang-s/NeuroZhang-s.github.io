@@ -55,11 +55,10 @@ Research Experience
 ======
 * September 2019-May 2022, Ph.D.
 * Department of Pharmacology, Harbin Medical University, China
-* Mentor: Dr. Jing Ai
-  * Professor, Department of Pharmacology, Harbin Medical University, China
+* Mentor: Professor Jing Ai, Department of Pharmacology, Harbin Medical University, China
 * Thesis title: “Gut Prevotellaceae-GABAergic Septohippocampal Pathway Mediates the Spatial Memory Impairment in High-fat diet Fed Ovariectomized Mice.”
 * Summary of Doctoral work:
-  *Clarifying the risk factors and mechanisms which promote the onset of cognitive impairment after estrogen depletion is essential for improving the life quality of aging females. Therefore, in my Ph.D thesis, using behavioral tests, 16s rDNA sequencing, in vivo or in vitro electrophysiology, combined with optogenetics and chemogenetics, i revealed that high-fat diet accelerated the impairment of spatial memory through a multi-order gut Prevotellaceae-septo(PV+)-hippocampal pathway in ovariectomized mice. Resistant starch supplementation rectified the gut Prevotellaceae and rescued the above impairment. These findings provide a better understanding of the precise gut-brain neural control of cognition and a putative way for preventing the cognitive impairment in obese menopausal females.
+  * Clarifying the risk factors and mechanisms which promote the onset of cognitive impairment after estrogen depletion is essential for improving the life quality of aging females. Therefore, in my Ph.D thesis, using behavioral tests, 16s rDNA sequencing, in vivo or in vitro electrophysiology, combined with optogenetics and chemogenetics, i revealed that high-fat diet accelerated the impairment of spatial memory through a multi-order gut Prevotellaceae-septo(PV+)-hippocampal pathway in ovariectomized mice. Resistant starch supplementation rectified the gut Prevotellaceae and rescued the above impairment. These findings provide a better understanding of the precise gut-brain neural control of cognition and a putative way for preventing the cognitive impairment in obese menopausal females.
 
 Overall Research Interest
 ======
