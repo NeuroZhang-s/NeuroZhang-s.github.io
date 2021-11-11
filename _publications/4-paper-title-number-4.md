@@ -4,8 +4,8 @@ collection: publications
 excerpt: 'First Author.'
 date: 2018-10-01
 venue: 'Acta Neuropharmacologica'
-paperurl: 'http://NeuroZhang-s.github.io/files/paper3.pdf'
+paperurl: 'http://NeuroZhang-s.github.io/files/paper9.pdf'
 ---
 Shuai Zhang, Jing Ai*.
 
-[Download paper here](http://NeuroZhang-s.github.io/files/paper3.pdf)
+[Download paper here](http://NeuroZhang-s.github.io/files/paper9.pdf)
